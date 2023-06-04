@@ -1,1 +1,10 @@
 aku mau make github bangg
+aku benci moonton sangat tidak ramah sekali 
+#include<iostream>
+using namespace std;
+
+int main(){
+  cout<<"MOONTON BAU TANAH"<<endl;
+}
+
+print("Moonton sangat tidack ramah sekali") 
